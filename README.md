@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Anushka Srivastava</h1>
 <h3 align="center">A passionate JAVA Backend Developer from India</h3>
 
+:arrow_right: I Have Proud of my Music Streaming Service API Project where i was used mu proficient programming language Java, Project Building tool Maven, Framework Springboot, Database MySQl and query tool Hibernate. Below the Link Of My Music Streaming Project :point_down:
+
+:arrow_right: Recently I was completed my Java Oops internship as Teaching Assistant ...In Which i was taken so many interviews of new students and also already admitted students...I was also taken doubts where i solve multiple Java and Oops related queries with different DSA logics...visit my LinkedIn to see details..
+
 <img align="right" alt="coding" width="400" src="https://github.com/Anushri-glitch/Anushri-glitch/blob/main/output-onlinegiftools.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushri-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="anushri-glitch" /> </p>
