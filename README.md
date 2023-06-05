@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anushka Srivastava</h1>
 <h3 align="center">A passionate JAVA Backend Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![coding](https://github.com/Anushri-glitch/Anushri-glitch/assets/47708011/6d8db0e8-c7ae-4f22-9755-9eb7f64bce7b)
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushri-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="anushri-glitch" /> </p>
