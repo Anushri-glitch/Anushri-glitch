@@ -1,4 +1,3 @@
-![logo](https://github.com/Anushri-glitch/Anushri-glitch/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Anushka Srivastava</h1>
 <h3 align="center">A passionate JAVA Backend Developer from India</h3>
 
