@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anushka Srivastava</h1>
 <h3 align="center">A passionate JAVA Backend Developer from India</h3>
 
-:arrow_right: I Have Proud of my Music Streaming Service API Project where I was used my proficient programming language Java, Project Building tool Maven, Framework Springboot, Database MySQl and query tool Hibernate. Below the Link Of My Music Streaming Project :point_down:
+:arrow_right: I Have Proud of my Food Delivery Web Service API Project where I was used my proficient programming language Java, Project Building tool Maven, Framework Springboot, Database MySQl and query tool Hibernate Also deployed on github. Below the Link Of My Food Delivery Project :point_down:
 
 :arrow_right: Recently I have completed my Java Oops internship as Teaching Assistant .In Which I have taken so many interviews of new students and also already admitted students.I have also taken doubts where I solve multiple Java and Oops related queries with different DSA logics.visit my LinkedIn to see details.
 
@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushri-glitch&label=Profile%20views&color=0e75b6&style=flat" alt="anushri-glitch" /> </p>
 
-- 🔭 I’m recently completed this [Music Streaming Service API](https://github.com/Anushri-glitch/Music_Streaming-Service-API)
+- 🔭 I’m recently completed this [Food Delivery Web Service API](https://github.com/Anushri-glitch/Food-Delivery-Service)
 
 - 🌱 I’m currently learning **Full Stack Developement**
 
